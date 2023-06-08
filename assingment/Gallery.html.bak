@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html {
+background-color: #5A5A5A;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0 ;
+overflow: hidden;
+background-color: #333;
+font-family: Sans-serif;
+}
+
+* {
+margin: 0;
+padding: 0;
+}
+
+li {
+float:left;
+}
+
+li  a{
+display: block;
+color: white;
+text-align: center;
+padding: 16px 36px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111;
+}
+
+body h1 {
+color: white;
+font-family: Tahoma;
+text-align: center; 
+}
+
+.image1{
+width: 200px;
+height: 200px;  
+}
+
+.image2{
+width: 325px;
+height: 200px;  
+}
+
+.image3{
+width: 355px;
+height: 200px;  
+}
+
+.image4{
+width: 325px;
+height: 200px;  
+}
+
+.center{
+width: auto;
+height: 200px;  
+}
+
+</style>
+</head>
+<body>
+<ul>
+<li><a href="Home.html">Home</a></li>
+<li><a href="AboutUs.html">About Us</a></li>
+<li><a href="TheTeam.html">The Team</a></li>
+<li><a href="Gallery.html">Gallery</a></li>
+<li><a href="Contacts.html">Contacts</a></li>
+<li><a href="References.html">References</a></li>
+</ul>
+
+<br><br><br><br>
+<h1> Gallery </h1>
+<br> <br>
+
+<video width="auto" height="200" controls="controls">
+        <source src="GamerClip.mp4" type="video/mp4" />
+       </video>
+	   
+<video width="auto" height="200" controls="controls">
+        <source src="Flick.mp4" type="video/mp4" />
+       </video>
+	   
+<img src="GraceGamers.jpg"class="image1">
+	   
+<img src="https://i.pinimg.com/736x/6b/c0/a4/6bc0a44be8e303642d9af9e1ced3c020.jpg" class="image2">
+
+<img src="RocketLeague.jpg"class="image3">
+
+<img src="TheTeam.jpg"class="image4">
+
+<a target="_blank" href="https://www.glc.qld.edu.au/rothwell-campus"><img src="https://yt3.ggpht.com/a/AGF-l78-e6cKBu7hwEzYBpQoOcuWFtmfZDem5PhYDg=s900-mo-c-c0xffffffff-rj-k-no"class="center"/></a>
+
+</body>
+</html>

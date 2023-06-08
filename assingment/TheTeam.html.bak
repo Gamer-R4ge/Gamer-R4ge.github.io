@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html {
+background-color: #5A5A5A;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0 ;
+overflow: hidden;
+background-color: #333;
+font-family: Sans-serif;
+}
+
+* {
+margin: 0;
+padding: 0;
+}
+
+li {
+float:left;
+}
+
+li  a{
+display: block;
+color: white;
+text-align: center;
+padding: 16px 36px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111;
+}
+
+body h1 {
+color: white;
+font-family: Tahoma;
+text-align: center; 
+}
+  
+img{
+width: 1348px;
+height: auto;  
+}
+
+body p {
+text-align: center;
+color: white;
+font-family: Arial;
+font-size: 20px;
+}
+
+body h2 {
+color: white;
+font-family: Tahoma;
+text-align: center; 
+}
+
+
+
+</style>
+</head>
+<body>
+<ul>
+<li><a href="Home.html">Home</a></li>
+<li><a href="AboutUs.html">About Us</a></li>
+<li><a href="TheTeam.html">The Team</a></li>
+<li><a href="Gallery.html">Gallery</a></li>
+<li><a href="Contacts.html">Contacts</a></li>
+<li><a href="References.html">References</a></li>
+</ul>
+
+<br><br><br><br>
+<h1> The Team </h1>
+
+
+<img src="TheTeam.jpg">
+
+<br>
+<p> Gamer_R4ge: The Defender/Goalkeeper <br> XxAspectxX: The Defender/Attacker <br> Combative_51: The Attacker </p>
+<br><br>
+<h2> Short Ingame Footage Of The Team </h2>
+
+ <video width="auto" height="570" controls="controls">
+        <source src="GamerClip.mp4" type="video/mp4" />
+       </video>
+
+</body>
+</html>

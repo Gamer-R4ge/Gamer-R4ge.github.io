@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+html {
+background-color: #5A5A5A;
+}
+
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0 ;
+overflow: hidden;
+background-color: #333;
+font-family: Sans-serif;
+}
+
+* {
+margin: 0;
+padding: 0;
+}
+
+li {
+float:left;
+}
+
+li  a{
+display: block;
+color: white;
+text-align: center;
+padding: 16px 36px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: #111;
+}
+
+body h1 {
+color: white;
+font-family: Tahoma;
+text-align: center; 
+}
+
+body p {
+text-align: center;
+color: white;
+font-family: Arial;
+font-size: 15px;
+}
+
+</style>
+</head>
+<body>
+<ul>
+<li><a href="Home.html">Home</a></li>
+<li><a href="AboutUs.html">About Us</a></li>
+<li><a href="TheTeam.html">The Team</a></li>
+<li><a href="Gallery.html">Gallery</a></li>
+<li><a href="Contacts.html">Contacts</a></li>
+<li><a href="References.html">References</a></li>
+</ul>
+
+<br><br><br><br>
+<h1> References </h1>
+<br><br><br><br>
+
+
+<p>Rocket League Free To Play Trailer. (2021). Retrieved from https://www.youtube.com/watch?v=OmMF9EDbmQQ <br>
+Rocket League, R. L. (2023). Rocket league Season 10. Retrieved from https://www.rocketleague.com/news/patch-notes-season-10-live/ <br>
+Rocket league, R. league. (2023). Rocket league Fennec. Retrieved from https://i.pinimg.com/736x/6b/c0/a4/6bc0a44be8e303642d9af9e1ced3c020.jpg <br><br> All team logos and gameplay clips were made by me</p> <br>
+
+
+</body>
+</html>
